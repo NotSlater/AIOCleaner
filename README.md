@@ -10,7 +10,5 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 ## How To Use
 
 ```
-Step 1: Download all files as zip and extract
-Step 2: Go to cmd and type "pip install pyfiglet"
-Step 3: Run Sherlock2.0.py, run it and Enjoy!
+Step 1: Work In Progress!
 ```
