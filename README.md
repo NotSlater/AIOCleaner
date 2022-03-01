@@ -12,4 +12,4 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 
 * Support for Fortnite Added 
 * Added New Valorant Traces
-* Apex Legends Cleaner Improved
+* Improved Apex Cleaner Speeds
